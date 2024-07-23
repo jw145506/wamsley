@@ -28,7 +28,7 @@ url: "https://jw145506.github.io/wamsley.github.io/" # the base hostname & proto
 github_username:  jw145506
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
