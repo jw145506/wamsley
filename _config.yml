@@ -23,7 +23,7 @@ title: James C. Wamsley
 description: >- # this means to ignore newlines until "baseurl:"
   Field Linguist
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jw145506.github.io/wamsley.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://wamsley.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: N/A
 github_username:  jw145506
 
