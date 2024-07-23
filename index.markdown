@@ -11,7 +11,7 @@ title: About
 I am currently a Visiting Assistant Professor in the Linguistics Department at the University of Rochester. My research interests (broadly) include semantics, pragmatics, morphology, and language documentation.
 
 
-Specifically, my research investigates semantic and pragmatic concepts such as deixis, reference, and information structure, and how these linguistic properties are represented in the grammar of a language, often through morphological and syntactic means.
+Specifically my research investigates semantic and pragmatic concepts such as deixis, reference, and information structure, and how these linguistic properties are represented in the grammar of a language, often through morphological and syntactic means.
 To conduct my research, I study things like nominal and verbal morphology, demonstratives, definite articles, and pronouns. I prefer to make use of primary data obtained in collaboration with fluent speakers of languages while at the same time grounding my investigations in formal linguistic theory.
 I am also a founding member of the Chin Languages Research Project at Indiana University in Bloomington. Learn more about that project [here](https://www.chinlanguages.org/)
 
